@@ -1,0 +1,214 @@
+.first{
+    background-image: url('../hospitalphoto4.jpg');
+    background-position: center;
+    font-size: 50px;
+    text-align: center;
+    color: black;
+    background-size: cover;
+    padding: 0px 0px;
+    background-attachment: fixed;
+    border-style: solid;
+    border-color: black;
+    margin: 0px;
+    
+    
+    
+     h1{
+        text-align: center;
+        text-shadow: 2px 2px 3px white;
+        padding: 0px 0px;
+        margin-bottom: 0%;
+         
+
+    }
+
+    h2{
+        font-size: 40px;
+        text-align: center;
+        text-shadow: 2px 2px 3px white;
+        padding-left: 0px
+        
+    }
+
+}
+
+h2{
+    text-transform: capitalize;
+    font-size: 40px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.second{
+    background-color: rgb(162, 202, 189);
+    text-align: center;
+    padding: 0px;
+    border-top-color: black;
+    border-style: solid;
+}
+
+.three{
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: contain;
+
+    h1{
+        text-align: left;
+        text-decoration: underline;
+    }
+
+}
+
+    .four{
+            border-style: solid;
+            padding-left:10px;
+            font-size: 15px;
+            background-color: lightskyblue;
+            margin: 0px;
+            
+         }
+
+.five{
+    border-color: black;
+    background-color: lightskyblue;
+    border-style: solid;
+    font-size: 15px;
+    padding-left:10px;
+    padding-top: 15px;
+    margin: 0px;
+    border-top: 0cap;
+
+    h1{
+        text-align: left;
+        text-decoration: underline;
+    }
+
+    h2{
+        text-align: left; 
+        font-size: 15px;
+    }
+}
+
+.six{
+    border-radius: 10px;
+    border-color: black;
+    background-color: lightskyblue;
+    border-style: solid;
+    font-size: 15px;
+    padding:5px;
+    border-radius: 0px;
+    margin: 0px;
+    border-top: 0cap;
+    padding-left: 10px;
+
+    h1{
+        text-align: left;
+        text-decoration: underline;
+        font-size: 32px;
+    }
+
+}
+
+.seven{
+    border-radius: 10px;
+    border-color: black;
+    background-color: lightskyblue;
+    border-style: solid;
+    font-size: 15px;
+    padding:5px;
+    border-radius: 0px;
+    margin: 0px;
+    border-top: 0cap;
+    padding-left: 10px;
+
+    h1{
+        text-align: left;
+        text-decoration: underline;
+    }
+
+}
+
+.eight{
+    border-radius: 10px;
+    border-color: black;
+    background-color: lightskyblue;
+    border-style: solid;
+    font-size: 15px;
+    padding:5px;
+    border-radius: 0px;
+    margin: 0px;
+    border-top: 0cap;
+    padding-left: 10px;
+
+    h1{
+        text-align: left;
+        text-decoration: underline;
+    }
+
+}
+
+.nine{
+    border-color: black;
+    background-color: lightskyblue;
+    border-style: solid;
+    font-size: 15px;
+    padding:5px;
+    border-radius: 0px;
+    margin: 0px;
+    border-top: 0cap;
+    padding-left: 10px;
+
+    h1{
+        text-align: left;
+        text-decoration: underline;
+    }
+
+}
+
+.ten{
+    border-color: black;
+    background-color: blue;
+    border-style: solid;
+    padding:5px;
+    border-radius: 0px;
+    margin: 0px;
+    border-top: 0cap;
+
+    h2{
+        text-align: center;
+        color: white;
+        font-size: 15px;
+    }
+
+    p{
+        text-align: center; 
+        color: white;
+        font-size: 15px; 
+    }
+}
+
+.eleven{
+    border-color: black;
+    background-color: lightskyblue;
+    border-style: solid;
+    font-size: 15px;
+    padding:5px;
+    border-radius: 0px;
+    margin: 0px;
+    border-top: 0cap;
+    padding-left: 10px;
+
+}
+
+.twelve{
+    border-color: black;
+    background-color: rgb(186, 223, 247);
+    border-style: solid;
+    font-size: 20px;
+    padding:5px;
+    border-radius: 0px;
+    margin: 0px;
+    border-top: 0cap;
+    padding-left: 10px;
+    padding-top: 10px;
+}
